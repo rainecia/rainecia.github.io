@@ -1,0 +1,11 @@
+User-Agent: *
+Disallow: 
+
+Sitemap: https://rainecia.github.io/sitemap.rainecia.gz
+Sitemap: https://rainecia.github.io/app/sitemap.rainecia.gz
+Sitemap: https://rainecia.github.io/assets/sitemap.rainecia.gz
+Sitemap: https://rainecia.github.io/css/sitemap.rainecia.gz
+Sitemap: https://rainecia.github.io/data/sitemap.rainecia.gz
+Sitemap: https://rainecia.github.io/includes/sitemap.rainecia.gz
+Sitemap: https://rainecia.github.io/item/sitemap.rainecia.gz
+Sitemap: https://rainecia.github.io/src/sitemap.rainecia.gz
